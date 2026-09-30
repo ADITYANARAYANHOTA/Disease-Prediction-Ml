@@ -508,13 +508,3 @@ This project demonstrates a complete machine learning classification workflow fo
 The notebook reports the highest ROC-AUC for Logistic Regression at **0.9960**, while SVM and XGBoost both report an accuracy of **0.9737** on the test set.
 
 The project is intended as an educational demonstration of supervised classification, model evaluation, comparison, and model persistence.
-
-## Author
-
-**Your Name**
-
-Add your GitHub and LinkedIn profiles here if this repository is being used as a portfolio project.
-
-## License
-
-Add an appropriate open-source license before publishing the repository. For example, the MIT License may be suitable for a personal educational project if its terms fit your intended use.
